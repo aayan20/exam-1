@@ -1,0 +1,423 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* nav */
+.navbar-1{
+	background: #2639959c;
+}
+/* nav */
+/* hedder */
+#hedder{
+	background-image: url('../image/pricingbdh.jpg');
+	min-height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center-top;
+	background-attachment: fixed;
+}
+.banar-1{
+	background: white;
+	color: black;
+	font-weight: 400 !important;
+}
+.banar-2{
+	font-weight: 700 !important;
+}
+.hr-125{
+    padding: 2px;
+    width: 85%;
+    margin: auto;
+}
+
+.hedder-11{
+	letter-spacing: 4px;
+	font-weight: 400;
+}
+.hedder-33{
+	font-size: 44px;
+    font-weight: 500;
+    line-height: 1.1;
+}
+.sub{
+	font-size: 20px;
+    font-style: normal !important;
+    top: -20px;
+}
+.sup{
+	font-size: 20px;
+    font-style: normal !important;
+    top: 20px;
+}
+
+.ul-1 li{
+	border-top: 1px solid rgba(255,255,255,.1);
+	border-bottom: 1px solid rgba(255,255,255,.1);
+    color: #fff;
+    list-style: outside none none;
+    padding: 5px 0;
+}
+.bottom-1{
+	font-family: "Montserrat",Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.card-1{
+    padding-top:40px !important;
+    padding-right: 60px !important;
+    padding-bottom: 30px !important;
+    padding-left: 35px !important;
+    background-color: rgba(156,39,176,.9) !important;
+	text-align: right !important;
+	margin-top: 122px;
+	margin-right: 3px;
+}
+.card-2{
+    padding-top:40px !important;
+    padding-right: 60px !important;
+    padding-bottom: 30px !important;
+    padding-left: 35px !important;
+    background-color: rgba(46,104,23,.9) !important;
+	text-align: right !important;
+	margin-top: 122px;
+	margin-right: 3px;
+}
+.card-3{
+    padding-top:40px !important;
+    padding-right: 60px !important;
+    padding-bottom: 30px !important;
+    padding-left: 43px !important;
+    background-color: rgba(101,163,44,.9) !important;
+	text-align: right !important;
+	margin-top: 122px;
+	margin-right: 3px;
+}
+.card-4{
+    padding-top:40px !important;
+    padding-right: 60px !important;
+    padding-bottom: 30px !important;
+    padding-left: 43px !important;
+    background-color: rgba(119,81,32,.9) !important;
+	text-align: right !important;
+	margin-top: 122px;
+	margin-right: 3px;
+}
+
+/* hedder */
+
+/* putul-footer */
+#putul{
+	background: #37B20A;
+}
+.img-left{
+	margin-left: -4px;
+}
+
+.title-1{
+	display: block;
+    font-size: 16px;
+    line-height: 1.625;
+    font-weight: 800;
+    margin-bottom: 20px;
+	color: #fff;
+}
+ul.contact-info li{
+	color: #fff;
+	font-size: 14px;
+}
+ul.contact-info li i {
+    background-color: #1846a8;
+    font-size: 20px;
+    height: 38px;
+    line-height: 38px;
+    margin: 0 15px 0 0;
+    text-align: center;
+    float: left;
+    width: 38px;
+	color: #fbf18e;
+	margin-left: -17px;
+}
+.social-icon li a {
+    background-color: #1846a8;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    height: 38px;
+    line-height: 38px;
+    margin-bottom: 5px;
+    margin-right: 7px;
+    text-align: center;
+    width: 42px;
+	margin-left: -1px;
+}
+.title-2{
+    display: block;
+    font-size: 17px;
+    line-height: 1.625;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+}
+.img-left-1{
+	margin-left: 2px;
+}
+/* putul-footer */
+/* SUMMARY ABOUT */
+.about-2{
+	font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    letter-spacing: 7px;
+	font-family: "Exo", Arial, Tahoma, sans-serif;
+	color: #a4591c;
+	margin-bottom: 15px;
+}
+.big{
+	font-size: 17px;
+    line-height: 28px;
+    font-weight: 400;
+    letter-spacing: 0px;
+	color: #54595F;
+	
+}
+
+.span-1{
+	width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 35px;
+	background-color: #9e6735;
+	color: #fff;
+	margin: 0 10px 5px 0;
+	border-radius: 5px;
+	text-align: center;
+	padding: 4px 17px;
+	font-family: algerian;
+	background-image: url(../image/stripes_10_w.png);
+}
+
+.h112{
+	font-size: 17px;
+    line-height: 20px;
+    font-weight: 700;
+    letter-spacing: 0px;
+	font-family: "Exo", Arial, Tahoma, sans-serif;
+	color: #202020;
+	margin-bottom: 15px;
+}
+.them-color{
+	color: #9e6735;
+}
+/* SUMMARY ABOUT */
+/* ABOUT MY SKILLS */
+#skills{
+	    padding-top: 80px;
+    padding-bottom: 30px;
+    background-color: #fafafa;
+    background-image: url(../image/home_profile_bg_section1.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.skill-1{
+	font-size: 24px;
+    line-height: 28px;
+    font-weight: 700;
+    letter-spacing: 6px;
+	font-family: "Exo", Arial, Tahoma, sans-serif;
+}
+.lead-6{
+	font-size: 14px;
+	color: #858585;
+	line-height: 21px;
+}
+.ul-2{
+	list-style: none;
+}
+.imge-right{
+    background: url(../image/list_check.png);
+	background-repeat: no-repeat;
+}
+.right-2{
+	margin: 0px 23px 15px 30px;
+		
+}
+.imge-right-1{
+	background: url(../image/list_idea.png);
+	background-repeat: no-repeat;
+}
+
+.margin-55{
+	margin-left: 110px;
+}
+.margin-56{
+	margin-left: 60px;
+}
+/* ABOUT MY SKILLS */
+
+/* Who We Are */
+.we-1{
+	    font-size: 30px;
+    line-height: 60px;
+    font-family: "Playfair Display";
+	    color: #747a87;
+}
+.dropcap-boxed {
+    height: 51px;
+    width: 51px;
+    line-height: 80px;
+    border-radius: 8px;
+    background-clip: padding-box;
+    box-shadow: 0 1px 1px rgba(0,0,0,.2);
+    color: #fff;
+    font-size: 45px;
+    background-color: #2176ff;
+}	
+.name-1{
+	padding: 10px;
+	margin-right: 20px;
+	border-radius: 35%;
+	
+}	
+	
+
+.color{
+    padding: 10px 20px 10px 20px;
+    line-height: 17px;
+    font-size: 17px;
+	border: 1px solid black;
+    color: black;
+    border-radius: 24px 24px 24px 24px;
+    letter-spacing: 3px;
+	background: #00000000;
+	
+	
+}
+.color:hover{
+    padding: 10px 20px 10px 20px;
+    line-height: 17px;
+    font-size: 17px;
+    color: white;
+    border-radius: 24px 24px 24px 24px;
+	background: #1D6CE2;
+	border: 1px solid #1D6CE2;
+}
+/* Who We Are */
+/* service */
+
+.fa-1{
+    color: #7da7fa;
+    font-weight: 1000;
+    margin-left: 164px;
+}
+
+.font-12{
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.btnn-1{
+    border: 1px solid #1D6CE2;
+    padding: 10px 30px;
+    background: #1D6CE2;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    text-decoration: none;
+	letter-spacing: 3px;
+}
+@media(max-width: 1200px){
+	.fa-1{
+    margin-left: 135px;
+}
+	
+}
+@media(max-width: 992px){
+	.fa-1{
+    margin-left: 93px;
+}
+	
+}
+@media(max-width: 767px){
+	.fa-1{
+   margin-left: 215px;
+}
+	
+}
+/* service */
+
+
+/* audiobook */
+
+#audiobook{
+	background-image: url(../image/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center-top;
+}
+
+.imgg-2{
+	margin-top: 96px;
+    height: auto;
+    width: 60%;
+    margin-left: 120px;
+}
+.imgg-3{
+	 margin-right: 130px;
+}
+.disp-22{
+	font-size: 42px;
+	font-family: elephant;
+	font-weight: 300;
+}
+.disp-23{
+	color: #eda331;
+	letter-spacing: 2px;
+}
+.parag-5{
+	text-align: center;
+    color: #999999;
+    padding: 0 53px;
+    font-size: 18px;
+}
+.flgg-5{
+    margin-right: 60px;
+    margin-left: 60px;
+
+}
+
+/* audiobook */
+
+
+/* slider */
+.img-1{
+	margin: auto;
+	display: block;
+}
+/* slider */
+
+
+
+
+#Upcoming{
+	background: #fff2d7;
+}
+
+
+.class-12{
+	    font-family: "DM Serif Display", Georgia, serif;
+    font-weight: 600;
+}
+
+.class-13{
+	letter-spacing: 2px;
+	color: #F4B429;
+}
+.dish-1{
+	font-size: 26px;
+	font-weight: 400;
+}
+
+
+
